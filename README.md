@@ -1,4 +1,11 @@
-# ReduxSimpleStarter
+# ReduxSimpleYoutubeSearch
+
+This is an exercise I did for my React and Redux course.
+The app is to search a video using Youtube API Search.
+
+The course I take was from Udemy, Modern React with Redux by Stephen Grider.
+
+Message from The Course Instructor:
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
